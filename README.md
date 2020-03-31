@@ -1,6 +1,6 @@
 ## RGB LED Button assignment
 
-### an itteration on the BlinkWithoutDelay Weekly assignment
+### an iteration on the BlinkWithoutDelay Weekly assignment
 
 #### Jake Hanicak - 3/31/20
 
